@@ -110,6 +110,8 @@ and have a chat with them about what data is the most important to them, what an
 
 ### Four Type of people look Retails and Supply chain analysis Report
 
+<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp" alt="Alt text" />
+
 ![Alt text](https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp)
 ![download.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp)
 <img align="right" alt="coding" width="400" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp">
