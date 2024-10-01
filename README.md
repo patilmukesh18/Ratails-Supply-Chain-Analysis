@@ -110,11 +110,8 @@ and have a chat with them about what data is the most important to them, what an
 
 ### Four Type of people look Retails and Supply chain analysis Report
 
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp" alt="Alt text" />
-
 ![Alt text](https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp)
-![download.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp)
-<img align="right" alt="coding" width="400" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/905a5e02-cfff-488a-976a-738c53c3f020/6ee030af-fb20-4373-b43d-4489276d9792/download.webp">
+
 Doing this beforehand will help you save your own time, and **save your users’ time** as well by creating a report that is intuitive and easily readable without any fluff or frustrations. As you design your Power BI supply chain and retail analytics report, feel free to ask the involved parties for feedback and make adjustments as you go!
 
 ## **Top 3 Tips for Creating a Retail & Supply Chain Report**
