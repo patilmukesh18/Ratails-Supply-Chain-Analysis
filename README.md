@@ -102,7 +102,7 @@ Ask Question to stakeholders
 - Who will use my report?
 - What problems are they looking to solve with my report?
 
-Comedian Ricky Gervais once said: *“If you try to please everyone, you’ll please no one”,* and this adage is especially true in data visualization. Different users will focus on different data in your report, so you can cater to their needs specifically by removing irrelevant data and highlighting the most important visuals with size, color, or placement.
+Different users will focus on different data in your report, so you can cater to their needs specifically by removing irrelevant data and highlighting the most important visuals with size, color, or placement.
 
 ### So, **find out who will use your report the most**
 
